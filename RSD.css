@@ -16,4 +16,10 @@ background-color:red;
 .blue{
 background-color:blue;
 }
+@media screen and(max-width:4tu9px;
+{
+div{float;none;}
+.big,.middle{width100%;}
+.small{width:50%}
+}
 
